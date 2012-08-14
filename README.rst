@@ -1,6 +1,8 @@
 Introduction
 ************
 
+**Updated code is available from: https://github.com/faircloth-lab/phyluce/**
+
 This repository contains code specifically used in::
 
     BC Faircloth, JE McCormack, NG Crawford, MG Harvey, RT Brumfield, TC Glenn.  
@@ -27,15 +29,12 @@ To generate species trees from gene trees, we used:
 Note
 ----
 
-Users, of this code should be aware that we will or already have split
-portions of the code within this repository into separate repositories 
-and/or packages for official distribution.  Similarly, parts of the code
-within may already be part of existing, official repositories - we have
-put everything together here to provide a cohesive whole.
+Users, of this code should be aware that we have split portions of the code within this 
+repository into separate repositories and/or packages for official distribution.  
 
 We will make an attempt to list those repositories below:
 
-- no other repositories at present
+- https://github.com/faircloth-lab/phyluce/
 
 Dependencies
 ------------
